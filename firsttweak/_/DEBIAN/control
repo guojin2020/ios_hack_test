@@ -1,9 +1,10 @@
 Package: cclab
 Name: firstTweak
 Depends: mobilesubstrate
-Version: 0.0.1
 Architecture: iphoneos-arm
 Description: just a joke
 Maintainer: Int3
 Author: Int3
 Section: Tweaks
+Version: 0.0.1-27
+Installed-Size: 16
