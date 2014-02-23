@@ -1,0 +1,9 @@
+Package: cclab
+Name: WXReveal
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: 用来加载Reveal动态库分析微信
+Maintainer: Int3
+Author: Int3
+Section: Tweaks
